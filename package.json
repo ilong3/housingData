@@ -1,0 +1,22 @@
+{
+  "dependencies": {
+    "axios": "^1.7.2",
+    "crawlee": "^3.10.1",
+    "got-scraping": "^4.0.6",
+    "json2csv": "^6.0.0-alpha.2",
+    "linkedom": "^0.18.3",
+    "puppeteer": "^22.10.0",
+    "set-cookie-parser": "^2.6.0"
+  },
+  "name": "professionalscraping",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "module",
+  "description": ""
+}
